@@ -1,0 +1,2 @@
+bluescan==0.7.1
+bshare==1.0.0
